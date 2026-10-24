@@ -1,0 +1,1 @@
+DIO Agent é um mentor de IA para estudantes da DIO. Ensina tecnologia por acompanhamento, sem dar respostas prontas, com skills passo a passo (plano de estudos, destravar desafios, explicar conceitos) e especialização em análise de vulnerabilidades. Funciona em qualquer harness que leia AGENTS.md.
